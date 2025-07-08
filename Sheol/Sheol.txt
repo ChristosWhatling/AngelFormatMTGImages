@@ -1,0 +1,5735 @@
+[CustomCards]
+	[	{
+			"name": "Rend the Taboo",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rend the Taboo.png"
+			}
+		},
+		{
+			"name": "Regimentation",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Kindred Instant — Soldier ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Regimentation.png"
+			}
+		},
+		{
+			"name": "Call the Overwatch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Soldier ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Call the Overwatch.png"
+			}
+		},
+		{
+			"name": "Encage",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Enchantment — Soldier Aura ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Encage.png"
+			}
+		},
+		{
+			"name": "Winged Infantry",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bene-Elohim Soldier ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Winged Infantry.png"
+			}
+		},
+		{
+			"name": "Arms Suppliers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Kindred Artifact — Soldier Vehicle ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Arms Suppliers.png"
+			}
+		},
+		{
+			"name": "Develop Solution",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Develop Solution.png"
+			}
+		},
+		{
+			"name": "Alteration Survivor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Ishim Advisor ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Alteration Survivor.png"
+			}
+		},
+		{
+			"name": "Oddblight",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Kindred Instant — Nightmare ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Oddblight.png"
+			}
+		},
+		{
+			"name": "Vilejägare",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Nightmare ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vilejägare.png"
+			}
+		},
+		{
+			"name": "Beacon of Solace",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beacon of Solace.png"
+			}
+		},
+		{
+			"name": "Ichorcoated Munitions",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Kindred Artifact — Soldier ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ichorcoated Munitions.png"
+			}
+		},
+		{
+			"name": "Manifold Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Manifold Growth.png"
+			}
+		},
+		{
+			"name": "Helix Pinnacle",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Helix Pinnacle.png"
+			}
+		},
+		{
+			"name": "Alternate",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}{C}{C}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Alternate.png"
+			}
+		},
+		{
+			"name": "Periphery Skirter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}{C}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Periphery Skirter.png"
+			}
+		},
+		{
+			"name": "Fluffy Wightling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fluffy Wightling.png"
+			}
+		},
+		{
+			"name": "Brink Dreng",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elohim Soldier ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Brink Dreng.png"
+			}
+		},
+		{
+			"name": "Gird for Conflict",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Sorcery — Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gird for Conflict.png"
+			}
+		},
+		{
+			"name": "Kodesh Devoted",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Erelim Cleric ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodesh Devoted.png"
+			}
+		},
+		{
+			"name": "Beyond the Pale",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beyond the Pale.png"
+			}
+		},
+		{
+			"name": "Vjöryn, Jarl of the Brink",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Elohim Soldier ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vjöryn, Jarl of the Brink.png"
+			}
+		},
+		{
+			"name": "Brink Fencer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Seraphim Soldier ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Brink Fencer.png"
+			}
+		},
+		{
+			"name": "Brink Pearlcoat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elohim Soldier ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Brink Pearlcoat.png"
+			}
+		},
+		{
+			"name": "Sudden Sinkhole",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sudden Sinkhole.png"
+			}
+		},
+		{
+			"name": "Entrenched Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bene-Elohim Scout ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Entrenched Pathfinder.png"
+			}
+		},
+		{
+			"name": "Wild Apparate",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct Nightmare ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wild Apparate.png"
+			}
+		},
+		{
+			"name": "Lyðarunian Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dog Cherubim Scout ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarunian Mentor.png"
+			}
+		},
+		{
+			"name": "Observe",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Kindred Sorcery — Scout ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Observe.png"
+			}
+		},
+		{
+			"name": "Aqueous Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish Cherubim Scout ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aqueous Pathfinder.png"
+			}
+		},
+		{
+			"name": "Triangulate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Kindred Sorcery — Scout ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Triangulate.png"
+			}
+		},
+		{
+			"name": "Zoom Out",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Zoom Out.png"
+			}
+		},
+		{
+			"name": "Kodeshim Perception",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Perception.png"
+			}
+		},
+		{
+			"name": "Cloud Fish Chauffeur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ishim Fish Pilot ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cloud Fish Chauffeur.png"
+			}
+		},
+		{
+			"name": "Pareidolia",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pareidolia.png"
+			}
+		},
+		{
+			"name": "Omniscience",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Omniscience.png"
+			}
+		},
+		{
+			"name": "Lyðarunian Cataloguer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Hashmallim Scout ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarunian Cataloguer.png"
+			}
+		},
+		{
+			"name": "Bloated Rothopter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Thopter Nightmare ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Bloated Rothopter.png"
+			}
+		},
+		{
+			"name": "Familiar Screech",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Familiar Screech.png"
+			}
+		},
+		{
+			"name": "Gangrenemesis",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Spider Nightmare ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gangrenemesis.png"
+			}
+		},
+		{
+			"name": "Miscreant Aborat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Nightmare ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Miscreant Aborat.png"
+			}
+		},
+		{
+			"name": "Sheol's Prosperity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sheol's Prosperity.png"
+			}
+		},
+		{
+			"name": "Event Horizon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightmare Fractal ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Event Horizon.png"
+			}
+		},
+		{
+			"name": "Taint",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Taint.png"
+			}
+		},
+		{
+			"name": "Wightling Tamer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Malakim Scout ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wightling Tamer.png"
+			}
+		},
+		{
+			"name": "Kodeshim Reclamation",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Reclamation.png"
+			}
+		},
+		{
+			"name": "Essencegorge",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Kindred — Nightmare",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Essencegorge.png"
+			}
+		},
+		{
+			"name": "Psyche, Forever Twisted",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Enchantment Planeswalker — Aura Psyche ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Psyche, Forever Twisted.png"
+			}
+		},
+		{
+			"name": "Sepulchre of the Scattered",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sepulchre of the Scattered.png"
+			}
+		},
+		{
+			"name": "Besmirched Carcass",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Kindred Artifact — Nightmare ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Besmirched Carcass.png"
+			}
+		},
+		{
+			"name": "Polycheride",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Polycheride.png"
+			}
+		},
+		{
+			"name": "Vulpic Soul Surrogate",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Fox Spirit Nightmare ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vulpic Soul Surrogate.png"
+			}
+		},
+		{
+			"name": "Spatial Convergence",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Kindred Enchantment — Nightmare Aura ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spatial Convergence.png"
+			}
+		},
+		{
+			"name": "Skittering Anathema",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spider Nightmare ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skittering Anathema.png"
+			}
+		},
+		{
+			"name": "Adjust",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Adjust.png"
+			}
+		},
+		{
+			"name": "Divaricate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Divaricate.png"
+			}
+		},
+		{
+			"name": "Kodeshim Elimination",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{R}{R}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Elimination.png"
+			}
+		},
+		{
+			"name": "Wightling Ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wightling Ambush.png"
+			}
+		},
+		{
+			"name": "Anteplanck Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Nightmare Giant ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Anteplanck Behemoth.png"
+			}
+		},
+		{
+			"name": "Dealate",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dealate.png"
+			}
+		},
+		{
+			"name": "Dryad Arbor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Dryad ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dryad Arbor.png"
+			}
+		},
+		{
+			"name": "Looming Sprigpest",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk Nightmare ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Looming Sprigpest.png"
+			}
+		},
+		{
+			"name": "Naught Preachers",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Nightmare ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Naught Preachers.png"
+			}
+		},
+		{
+			"name": "Subdue",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Subdue.png"
+			}
+		},
+		{
+			"name": "Spinal Unfolding",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Kindred Enchantment — Nightmare ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spinal Unfolding.png"
+			}
+		},
+		{
+			"name": "Kodeshim Creation",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Creation.png"
+			}
+		},
+		{
+			"name": "Pitch Aborat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Nightmare ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pitch Aborat.png"
+			}
+		},
+		{
+			"name": "Cauterizing Blaspheme",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Nightmare ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cauterizing Blaspheme.png"
+			}
+		},
+		{
+			"name": "Twinned Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Beast Nightmare ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Twinned Spirit.png"
+			}
+		},
+		{
+			"name": "Sense the Wild",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sense the Wild.png"
+			}
+		},
+		{
+			"name": "Sample Gathering",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sample Gathering.png"
+			}
+		},
+		{
+			"name": "Landscape Shift",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Landscape Shift.png"
+			}
+		},
+		{
+			"name": "Unknowable Expedition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Unknowable Expedition.png"
+			}
+		},
+		{
+			"name": "Assimilate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Assimilate.png"
+			}
+		},
+		{
+			"name": "Contained Oddity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Contained Oddity_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Contained Oddity_back.png"
+				}
+			}
+		},
+		{
+			"name": "Purrwisp",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Cat Spirit Nightmare ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Purrwisp.png"
+			}
+		},
+		{
+			"name": "Shifting Coincidence",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shifting Coincidence.png"
+			}
+		},
+		{
+			"name": "Coalescent Scraptitan",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Giant Construct ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Coalescent Scraptitan.png"
+			}
+		},
+		{
+			"name": "Core of Sheol",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "World Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Core of Sheol.png"
+			}
+		},
+		{
+			"name": "Mirage of Civilisation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Enchantment — Saga Treasure ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirage of Civilisation.png"
+			}
+		},
+		{
+			"name": "Pathfinder's Compass",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinder's Compass.png"
+			}
+		},
+		{
+			"name": "Energy Harness",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "World Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Energy Harness.png"
+			}
+		},
+		{
+			"name": "Lost Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lost Lotus.png"
+			}
+		},
+		{
+			"name": "Scattered Epitaph",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scattered Epitaph.png"
+			}
+		},
+		{
+			"name": "Wildformed Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wildformed Relic.png"
+			}
+		},
+		{
+			"name": "Bilechoke Floraborat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Swamp Treefolk Nightmare ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Bilechoke Floraborat.png"
+			}
+		},
+		{
+			"name": "Sapped Overgrowth",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Wall ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sapped Overgrowth.png"
+			}
+		},
+		{
+			"name": "Pebble Wightling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Mountain Nightmare ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pebble Wightling.png"
+			}
+		},
+		{
+			"name": "Elsfängge, Soul Crater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Kindred Land — Nightmare ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Elsfängge, Soul Crater.png"
+			}
+		},
+		{
+			"name": "Regelskar, Brink Headquarters",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Kindred Land — Soldier ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Regelskar, Brink Headquarters.png"
+			}
+		},
+		{
+			"name": "Lyðarun, Pathfinder's Academy",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Kindred Land — Scout ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarun, Pathfinder's Academy.png"
+			}
+		},
+		{
+			"name": "Fel, Consequence's Epicentre",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Kindred Land — Nightmare ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fel, Consequence's Epicentre.png"
+			}
+		},
+		{
+			"name": "Skephetten, Port of Innovation",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Kindred Land — Construct ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skephetten, Port of Innovation.png"
+			}
+		},
+		{
+			"name": "Valhtill, Scattered Borough",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtill, Scattered Borough.png"
+			}
+		},
+		{
+			"name": "Follow the Lead",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Soldier ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Follow the Lead.png"
+			}
+		},
+		{
+			"name": "Outspilling Growth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Outspilling Growth.png"
+			}
+		},
+		{
+			"name": "Sylvanis, One With Nature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land Creature — Forest Wolf Nightmare ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sylvanis, One With Nature.png"
+			}
+		},
+		{
+			"name": "Kodeshim Equilibrium",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}{W}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Equilibrium.png"
+			}
+		},
+		{
+			"name": "Esoteric Simulacrum",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Enchantment Artifact Creature — Golem ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Esoteric Simulacrum.png"
+			}
+		},
+		{
+			"name": "Controlled Chaos",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Controlled Chaos.png"
+			}
+		},
+		{
+			"name": "Body of Water",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Island Nightmare ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Body of Water.png"
+			}
+		},
+		{
+			"name": "Grasp At Reality",
+			"rarity": "uncommon",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Grasp At Reality.png"
+			}
+		},
+		{
+			"name": "Amnesty Of The Accursed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Elohim Citizen ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Amnesty Of The Accursed.png"
+			}
+		},
+		{
+			"name": "Premature Celebration",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Premature Celebration.png"
+			}
+		},
+		{
+			"name": "Jeyrah, Nature Coalescent",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Elk Cherubim Druid ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Jeyrah, Nature Coalescent.png"
+			}
+		},
+		{
+			"name": "Siteside Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit Cherubim Citizen ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Siteside Vendor.png"
+			}
+		},
+		{
+			"name": "Hired Deadeye",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Cherubim Assassin ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hired Deadeye.png"
+			}
+		},
+		{
+			"name": "Inkshaper Echram",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{1}{C}{C}",
+			"type": "Legendary Artifact Creature — Squirrel Cherubim ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Inkshaper Echram.png"
+			}
+		},
+		{
+			"name": "Z'tryz, AWOL Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact Creature — Insect ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Z'tryz, AWOL Surveyor.png"
+			}
+		},
+		{
+			"name": "Full Metal Aborat",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Spider Construct Nightmare ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Full Metal Aborat.png"
+			}
+		},
+		{
+			"name": "Scattered Soul",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land Creature — Nightmare Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scattered Soul.png"
+			}
+		},
+		{
+			"name": "Whimsical Floraborat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk Nightmare Archer ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Whimsical Floraborat.png"
+			}
+		},
+		{
+			"name": "Disfiguring Encounter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Kindred Enchantment — Nightmare ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Disfiguring Encounter.png"
+			}
+		},
+		{
+			"name": "Defacing Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Defacing Slash.png"
+			}
+		},
+		{
+			"name": "Valhtillian Capsizer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Nightmare ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtillian Capsizer.png"
+			}
+		},
+		{
+			"name": "Towering Malformation",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Giant Nightmare ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Towering Malformation.png"
+			}
+		},
+		{
+			"name": "Mushpooch",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Dog ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mushpooch.png"
+			}
+		},
+		{
+			"name": "Crystalline Mosshound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Dog ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Crystalline Mosshound.png"
+			}
+		},
+		{
+			"name": "Aperture Shambler",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Nightmare ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aperture Shambler.png"
+			}
+		},
+		{
+			"name": "Razortailed Rodent",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Rat Cherubim Nightmare ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Razortailed Rodent.png"
+			}
+		},
+		{
+			"name": "Pathfinder Class",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Kindred Enchantment — Scout Class ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinder Class.png"
+			}
+		},
+		{
+			"name": "Go With The Flow",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Fish ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Go With The Flow.png"
+			}
+		},
+		{
+			"name": "One Of Our Own",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/One Of Our Own.png"
+			}
+		},
+		{
+			"name": "Hideous Conglomeration",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hideous Conglomeration.png"
+			}
+		},
+		{
+			"name": "Maternal Mech",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Maternal Mech.png"
+			}
+		},
+		{
+			"name": "Veteran's Armaments",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Soldier Equipment ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Veteran's Armaments.png"
+			}
+		},
+		{
+			"name": "Exoplanar Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Serpent Fish Nightmare ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Exoplanar Tyrant.png"
+			}
+		},
+		{
+			"name": "Sanelle, Surface Asympototic",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Legendary Creature — Dragon Fish Fractal ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sanelle, Surface Asympototic.png"
+			}
+		},
+		{
+			"name": "Cloud Fish Pilgrimage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Enchantment Land — Fish Saga ... ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cloud Fish Pilgrimage.png"
+			}
+		},
+		{
+			"name": "Coy Tagalong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Creature — Fish Nightmare ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Coy Tagalong.png"
+			}
+		},
+		{
+			"name": "Shambling Intruder",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shambling Intruder.png"
+			}
+		},
+		{
+			"name": "Soul's Fire",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Soul's Fire.png"
+			}
+		},
+		{
+			"name": "The Grand Magistrate",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Ophanim Cleric Noble ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Grand Magistrate.png"
+			}
+		},
+		{
+			"name": "Skephettenite Core",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skephettenite Core.png"
+			}
+		},
+		{
+			"name": "Brink Arbalester",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct Archer ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Brink Arbalester.png"
+			}
+		},
+		{
+			"name": "Valhtillian Core",
+			"rarity": "common",
+			"mana_cost": "{X}{2}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtillian Core.png"
+			}
+		},
+		{
+			"name": "One With The Trees",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Scorpion Nightmare ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/One With The Trees.png"
+			}
+		},
+		{
+			"name": "Ravage",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ravage.png"
+			}
+		},
+		{
+			"name": "Beacon of Coordination",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beacon of Coordination.png"
+			}
+		},
+		{
+			"name": "Ray Blast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ray Blast.png"
+			}
+		},
+		{
+			"name": "Wall of Shields",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wall ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wall of Shields.png"
+			}
+		},
+		{
+			"name": "Hotfix",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hotfix.png"
+			}
+		},
+		{
+			"name": "Wasp, Data Forger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Artifact Creature — Ishim Artificer ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wasp, Data Forger.png"
+			}
+		},
+		{
+			"name": "Fishbot Swarm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Fish Construct Army ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fishbot Swarm.png"
+			}
+		},
+		{
+			"name": "Blighted Stitcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Malakim Cleric ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Blighted Stitcher.png"
+			}
+		},
+		{
+			"name": "Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Sorcery — Scout ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scout.png"
+			}
+		},
+		{
+			"name": "A Path Well Trodden",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Kindred Enchantment — Scout ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/A Path Well Trodden.png"
+			}
+		},
+		{
+			"name": "Facility Defender",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Facility Defender.png"
+			}
+		},
+		{
+			"name": "Knee-deep Developer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Ishim Artificer ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Knee-deep Developer.png"
+			}
+		},
+		{
+			"name": "Wrong Way",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wrong Way.png"
+			}
+		},
+		{
+			"name": "Sharpened Skysplitter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Elohim Artificer ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sharpened Skysplitter.png"
+			}
+		},
+		{
+			"name": "Against the Grain",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Against the Grain.png"
+			}
+		},
+		{
+			"name": "Valhtillian Mimic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Treefolk Nightmare ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtillian Mimic.png"
+			}
+		},
+		{
+			"name": "Lyðarunian Cryomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Snow Creature — Malakim Artificer ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarunian Cryomancer.png"
+			}
+		},
+		{
+			"name": "Umbra Mask",
+			"rarity": "common",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Enchantment Artifact — Aura Equipment ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Umbra Mask.png"
+			}
+		},
+		{
+			"name": "Embark",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Sorcery — Soldier ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Embark.png"
+			}
+		},
+		{
+			"name": "Metaplanar Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Serpent Fish Nightmare ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Metaplanar Tyrant.png"
+			}
+		},
+		{
+			"name": "Betentacled Monstrocity",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Fish Hydra Nightmare ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Betentacled Monstrocity.png"
+			}
+		},
+		{
+			"name": "Hard-light Seeker",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Construct Scout ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hard-light Seeker.png"
+			}
+		},
+		{
+			"name": "Milestone Setter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Ishim Scout ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Milestone Setter.png"
+			}
+		},
+		{
+			"name": "Jumpback Skywhale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Whale Fish ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Jumpback Skywhale.png"
+			}
+		},
+		{
+			"name": "Pathfinder's Capsule",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinder's Capsule.png"
+			}
+		},
+		{
+			"name": "Hard-light Flare",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hard-light Flare.png"
+			}
+		},
+		{
+			"name": "Shadow's Grin",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Shade Nightmare ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shadow's Grin.png"
+			}
+		},
+		{
+			"name": "Panglacial Wurm",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Panglacial Wurm.png"
+			}
+		},
+		{
+			"name": "Augment Reality",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Augment Reality.png"
+			}
+		},
+		{
+			"name": "Augmented Faebound",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Insect Nephilim Soldier ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Augmented Faebound.png"
+			}
+		},
+		{
+			"name": "Contaminated Metal",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct Nightmare ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Contaminated Metal.png"
+			}
+		},
+		{
+			"name": "Ichor Wellspring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ichor Wellspring.png"
+			}
+		},
+		{
+			"name": "Cervid Spirit Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Elk Spirit ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cervid Spirit Guide.png"
+			}
+		},
+		{
+			"name": "Boreal Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Snow Creature — Elk Nightmare ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Boreal Abomination.png"
+			}
+		},
+		{
+			"name": "Sylvan Scrying",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sylvan Scrying.png"
+			}
+		},
+		{
+			"name": "Gallivanting Hitchhiker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Frog ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gallivanting Hitchhiker.png"
+			}
+		},
+		{
+			"name": "Sprouting Wightling",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Fungus Saproling Nightmare ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sprouting Wightling.png"
+			}
+		},
+		{
+			"name": "She Without Epithet",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Artifact Planeswalker",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/She Without Epithet.png"
+			}
+		},
+		{
+			"name": "A Gracious Offer",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "World Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/A Gracious Offer.png"
+			}
+		},
+		{
+			"name": "Winglock",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "World Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Winglock.png"
+			}
+		},
+		{
+			"name": "Dunevixen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land Creature — Plains Sand Fox ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dunevixen.png"
+			}
+		},
+		{
+			"name": "Scrounge Through Scrap",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scrounge Through Scrap.png"
+			}
+		},
+		{
+			"name": "The Pride of Skephetten",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Pride of Skephetten.png"
+			}
+		},
+		{
+			"name": "Chucklevoodoo",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Chucklevoodoo.png"
+			}
+		},
+		{
+			"name": "Chaos Warp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Chaos Warp.png"
+			}
+		},
+		{
+			"name": "Steamroll",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "World Artifact Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Steamroll.png"
+			}
+		},
+		{
+			"name": "Larynx Lupin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Nightmare Wolf Hydra ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Larynx Lupin.png"
+			}
+		},
+		{
+			"name": "Abrade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Abrade.png"
+			}
+		},
+		{
+			"name": "Extrapedite",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Extrapedite.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wastes.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Forest.png"
+			}
+		},
+		{
+			"name": "Calamity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Calamity.png"
+			}
+		},
+		{
+			"name": "Repel From Reality",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Repel From Reality.png"
+			}
+		},
+		{
+			"name": "Tempest Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tempest Wave.png"
+			}
+		},
+		{
+			"name": "Life's Finale",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Life's Finale.png"
+			}
+		},
+		{
+			"name": "Bombardment",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Bombardment.png"
+			}
+		},
+		{
+			"name": "Internal Blooming",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Internal Blooming.png"
+			}
+		},
+		{
+			"name": "Dust Settlers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Sand Nightmare ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dust Settlers.png"
+			}
+		},
+		{
+			"name": "Single Out",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Single Out.png"
+			}
+		},
+		{
+			"name": "Beacon of Deceit",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beacon of Deceit.png"
+			}
+		},
+		{
+			"name": "Beacon of Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beacon of Knowledge.png"
+			}
+		},
+		{
+			"name": "Beacon of Hope",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment Artifact — Shrine ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Beacon of Hope.png"
+			}
+		},
+		{
+			"name": "Living Plane",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "World Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Living Plane.png"
+			}
+		},
+		{
+			"name": "Aborat's Call",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Sorcery — Nightmare ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aborat's Call.png"
+			}
+		},
+		{
+			"name": "Pistonpouncer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Rabbit Cherubim Scout ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pistonpouncer.png"
+			}
+		},
+		{
+			"name": "Entering Databreaker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Rogue ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Entering Databreaker.png"
+			}
+		},
+		{
+			"name": "Defense Coordinator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Hashmallim Soldier ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Defense Coordinator.png"
+			}
+		},
+		{
+			"name": "Circumnavigate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Circumnavigate.png"
+			}
+		},
+		{
+			"name": "Drown in Remnants",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Drown in Remnants.png"
+			}
+		},
+		{
+			"name": "Unnoticed Nabbing",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Unnoticed Nabbing.png"
+			}
+		},
+		{
+			"name": "Flora Animating",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Flora Animating.png"
+			}
+		},
+		{
+			"name": "Shame to Waste",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shame to Waste.png"
+			}
+		},
+		{
+			"name": "Galvanized Gauntlets",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Galvanized Gauntlets.png"
+			}
+		},
+		{
+			"name": "Steel Dromedary",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Camel ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Steel Dromedary.png"
+			}
+		},
+		{
+			"name": "Fleeting Facsimile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Artifact Creature — Hashmallim Construct Saga ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fleeting Facsimile.png"
+			}
+		},
+		{
+			"name": "Experiment-347, In Testing",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Artifact Creature — Eye Construct ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Experiment-347, In Testing.png"
+			}
+		},
+		{
+			"name": "Courvain the Sightscourge",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Snow Creature — Owl Nephilim ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Courvain the Sightscourge.png"
+			}
+		},
+		{
+			"name": "The Broken Sovereign",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{W/B}",
+			"type": "Legendary Creature — Artificer Cleric ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Broken Sovereign.png"
+			}
+		},
+		{
+			"name": "Apiyra, Infinity Tamer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{3}",
+			"type": "Legendary Creature — Cat Cherubim Rogue ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Apiyra, Infinity Tamer.png"
+			}
+		},
+		{
+			"name": "Kodeshim Outcry",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Kindred Sorcery — Kodeshim ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kodeshim Outcry.png"
+			}
+		},
+		{
+			"name": "XII",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G/U}",
+			"type": "Legendary Creature — Malakim Assassin ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/XII.png"
+			}
+		},
+		{
+			"name": "Crashing Squallborn",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Crashing Squallborn.png"
+			}
+		},
+		{
+			"name": "Llathiss, Nephilim Outcast",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Fox Fish Cherubim Nephilim ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Llathiss, Nephilim Outcast.png"
+			}
+		},
+		{
+			"name": "The Pathfinder's Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Pathfinder's Paradigm.png"
+			}
+		},
+		{
+			"name": "Master Warcraft",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}{R/W}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Master Warcraft.png"
+			}
+		},
+		{
+			"name": "Koiru, Oaken Dunepiercer",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Artifact Creature — Sand Nightmare ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Koiru, Oaken Dunepiercer.png"
+			}
+		},
+		{
+			"name": "Scrap Sorter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scrap Sorter.png"
+			}
+		},
+		{
+			"name": "Descend the Ranks",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Descend the Ranks.png"
+			}
+		},
+		{
+			"name": "Skarstoftel, the Wildbrander",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Kindred Creature — Malakim Nightmare ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skarstoftel, the Wildbrander.png"
+			}
+		},
+		{
+			"name": "Corvid Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Bird Cherubim Nightmare Scout ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Corvid Scavenger.png"
+			}
+		},
+		{
+			"name": "Wrong Person, Right Place",
+			"rarity": "uncommon",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wrong Person, Right Place.png"
+			}
+		},
+		{
+			"name": "Vinemother Erralova",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Seraphim Plant Nightmare ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vinemother Erralova.png"
+			}
+		},
+		{
+			"name": "The Slithery Swindler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Seraphim Citizen ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Slithery Swindler.png"
+			}
+		},
+		{
+			"name": "Stiffen",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Stiffen.png"
+			}
+		},
+		{
+			"name": "The Murder Bros, Technicians For Hire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Creature — Bird Cherubim Artificer ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Murder Bros, Technicians For Hire.png"
+			}
+		},
+		{
+			"name": "Mosswire Weird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Weird Nightmare ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mosswire Weird.png"
+			}
+		},
+		{
+			"name": "Tumultuous Ransacking",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tumultuous Ransacking.png"
+			}
+		},
+		{
+			"name": "Cloudspewer Skywhale",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Creature — Whale Fish ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cloudspewer Skywhale.png"
+			}
+		},
+		{
+			"name": "Scooper Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scooper Drone.png"
+			}
+		},
+		{
+			"name": "Fel Tome",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fel Tome.png"
+			}
+		},
+		{
+			"name": "Urntag, Over The Brink",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Malakim Nightmare ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urntag, Over The Brink.png"
+			}
+		},
+		{
+			"name": "Kinghotier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Fish Nightmare ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kinghotier.png"
+			}
+		},
+		{
+			"name": "Carrion Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Insect Skeleton Nightmare ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Carrion Queen.png"
+			}
+		},
+		{
+			"name": "Spelære & Puppet, Hand in Hand",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Enchantment Creature — Malakim Nightmare Saga ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spelære & Puppet, Hand in Hand.png"
+			}
+		},
+		{
+			"name": "Timepierced Bayoneteer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Nightmare Soldier ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Timepierced Bayoneteer.png"
+			}
+		},
+		{
+			"name": "Sapstring Sharpshot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Creature — Treefolk Nightmare Archer ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sapstring Sharpshot.png"
+			}
+		},
+		{
+			"name": "Mosswicker Mage",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant Nightmare Wizard ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mosswicker Mage.png"
+			}
+		},
+		{
+			"name": "Invertchiroptriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Insect Bat Nightmare ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Invertchiroptriarch.png"
+			}
+		},
+		{
+			"name": "Gilder Bairn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Ouphe ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gilder Bairn.png"
+			}
+		},
+		{
+			"name": "Miss 'Otymie, Lilypad Lurker",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Siren Nightmare Shaman ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Miss 'Otymie, Lilypad Lurker.png"
+			}
+		},
+		{
+			"name": "Blooming Cloud Fish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Plant Fish ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Blooming Cloud Fish.png"
+			}
+		},
+		{
+			"name": "Fel Core",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fel Core.png"
+			}
+		},
+		{
+			"name": "Regelskarian Core",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Regelskarian Core.png"
+			}
+		},
+		{
+			"name": "Lyðarunian Core",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarunian Core.png"
+			}
+		},
+		{
+			"name": "Coincidental Tagalong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Creature — Fish Nightmare ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Coincidental Tagalong.png"
+			}
+		},
+		{
+			"name": "Croaking Tagalong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Creature — Frog Nightmare ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Croaking Tagalong.png"
+			}
+		},
+		{
+			"name": "Confused Tagalong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Creature — Fish Nightmare ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Confused Tagalong.png"
+			}
+		},
+		{
+			"name": "Coaxing Tagalongs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Creature — Fish Nightmare ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Coaxing Tagalongs.png"
+			}
+		},
+		{
+			"name": "In The Pines",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land — Fortification Forest ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/In The Pines.png"
+			}
+		},
+		{
+			"name": "Wrenn and One",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land Planeswalker — Wrenn ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wrenn and One.png"
+			}
+		},
+		{
+			"name": "Aberrated Asphalt",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Artifact Land — Nightmare ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aberrated Asphalt.png"
+			}
+		},
+		{
+			"name": "Power Depot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Power Depot.png"
+			}
+		},
+		{
+			"name": "Rising Chicane",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rising Chicane.png"
+			}
+		},
+		{
+			"name": "Absolute Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Absolute Void.png"
+			}
+		},
+		{
+			"name": "The Academy of Divine Arts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Academy of Divine Arts.png"
+			}
+		},
+		{
+			"name": "Adventurers' Guildhouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Adventurers' Guildhouse.png"
+			}
+		},
+		{
+			"name": "Amonkhet Raceway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Amonkhet Raceway.png"
+			}
+		},
+		{
+			"name": "Animal Sanctuary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Animal Sanctuary.png"
+			}
+		},
+		{
+			"name": "Arcadia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Arcadia.png"
+			}
+		},
+		{
+			"name": "Arcane Lighthouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Arcane Lighthouse.png"
+			}
+		},
+		{
+			"name": "Arch of Orazca",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Arch of Orazca.png"
+			}
+		},
+		{
+			"name": "Arena",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Arena.png"
+			}
+		},
+		{
+			"name": "Avishkar Raceway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Avishkar Raceway.png"
+			}
+		},
+		{
+			"name": "Avowed Rift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Avowed Rift.png"
+			}
+		},
+		{
+			"name": "Barry's Land",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Cloud ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Barry's Land.png"
+			}
+		},
+		{
+			"name": "Blank Canvas",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Blank Canvas.png"
+			}
+		},
+		{
+			"name": "Blinkmoth Nexus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Blinkmoth Nexus.png"
+			}
+		},
+		{
+			"name": "Branch of Vitu-Ghazi",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Branch of Vitu-Ghazi.png"
+			}
+		},
+		{
+			"name": "Captivating Crossroads",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Captivating Crossroads.png"
+			}
+		},
+		{
+			"name": "Cascade Bluffs",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cascade Bluffs.png"
+			}
+		},
+		{
+			"name": "Cascading Cataracts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cascading Cataracts.png"
+			}
+		},
+		{
+			"name": "Cathedral of Serra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cathedral of Serra.png"
+			}
+		},
+		{
+			"name": "Cathedral of War",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cathedral of War.png"
+			}
+		},
+		{
+			"name": "Cave of Temptation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cave of Temptation.png"
+			}
+		},
+		{
+			"name": "Cave of the Frost Dragon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cave of the Frost Dragon.png"
+			}
+		},
+		{
+			"name": "Celestial Colonnade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Celestial Colonnade.png"
+			}
+		},
+		{
+			"name": "City of Traitors",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/City of Traitors.png"
+			}
+		},
+		{
+			"name": "Cloudpost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Locus ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Cloudpost.png"
+			}
+		},
+		{
+			"name": "Contested War Zone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Contested War Zone.png"
+			}
+		},
+		{
+			"name": "Crawling Barrens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Crawling Barrens.png"
+			}
+		},
+		{
+			"name": "Creeping Tar Pit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Creeping Tar Pit.png"
+			}
+		},
+		{
+			"name": "Crumbling Vestige",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Crumbling Vestige.png"
+			}
+		},
+		{
+			"name": "Crystal Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Crystal Quarry.png"
+			}
+		},
+		{
+			"name": "Dakmor Salvage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dakmor Salvage.png"
+			}
+		},
+		{
+			"name": "Dark Depths",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Snow Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dark Depths.png"
+			}
+		},
+		{
+			"name": "Daru Encampment",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Daru Encampment.png"
+			}
+		},
+		{
+			"name": "Den of the Bugbear",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Den of the Bugbear.png"
+			}
+		},
+		{
+			"name": "Desert",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Desert.png"
+			}
+		},
+		{
+			"name": "Desert Cenote",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Desert Cenote.png"
+			}
+		},
+		{
+			"name": "Diamond City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Diamond City.png"
+			}
+		},
+		{
+			"name": "Diamond Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Diamond Valley.png"
+			}
+		},
+		{
+			"name": "Domesticated Watercourse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Domesticated Watercourse.png"
+			}
+		},
+		{
+			"name": "Dread Statuary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Dread Statuary.png"
+			}
+		},
+		{
+			"name": "Enchanted Prairie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Enchanted Prairie.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Expanse of the Dreamscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Expanse of the Dreamscape.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Faceless Haven",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Faceless Haven.png"
+			}
+		},
+		{
+			"name": "Faerie Conclave",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Faerie Conclave.png"
+			}
+		},
+		{
+			"name": "Fetching Garden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fetching Garden.png"
+			}
+		},
+		{
+			"name": "Fetid Heath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fetid Heath.png"
+			}
+		},
+		{
+			"name": "Fire-Lit Thicket",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fire-Lit Thicket.png"
+			}
+		},
+		{
+			"name": "Flooded Grove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Flooded Grove.png"
+			}
+		},
+		{
+			"name": "Forbidding Watchtower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Forbidding Watchtower.png"
+			}
+		},
+		{
+			"name": "The Forgotten Place",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Locus Sphere ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Forgotten Place.png"
+			}
+		},
+		{
+			"name": "Forsaken Crossroads",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Forsaken Crossroads.png"
+			}
+		},
+		{
+			"name": "Fountainport",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fountainport.png"
+			}
+		},
+		{
+			"name": "Frosted Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Forest ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Frosted Forest.png"
+			}
+		},
+		{
+			"name": "Frostwalk Bastion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Frostwalk Bastion.png"
+			}
+		},
+		{
+			"name": "Geier Reach Sanitarium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Geier Reach Sanitarium.png"
+			}
+		},
+		{
+			"name": "Gem Bazaar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gem Bazaar.png"
+			}
+		},
+		{
+			"name": "Gemstone Caverns",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gemstone Caverns.png"
+			}
+		},
+		{
+			"name": "Ghitu Encampment",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ghitu Encampment.png"
+			}
+		},
+		{
+			"name": "Glacial Chasm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Glacial Chasm.png"
+			}
+		},
+		{
+			"name": "Glade of the Pump Spells",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Glade of the Pump Spells.png"
+			}
+		},
+		{
+			"name": "Glimmerpost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Locus ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Glimmerpost.png"
+			}
+		},
+		{
+			"name": "Glimmervoid",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Glimmervoid.png"
+			}
+		},
+		{
+			"name": "Gloomy Rift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Gloomy Rift.png"
+			}
+		},
+		{
+			"name": "Graven Cairns",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Graven Cairns.png"
+			}
+		},
+		{
+			"name": "Great Hall of the Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Great Hall of the Citadel.png"
+			}
+		},
+		{
+			"name": "Grim Backwoods",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Grim Backwoods.png"
+			}
+		},
+		{
+			"name": "Grove of the Burnwillows",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Grove of the Burnwillows.png"
+			}
+		},
+		{
+			"name": "Hall of Storm Giants",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hall of Storm Giants.png"
+			}
+		},
+		{
+			"name": "Hall of Tagsin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hall of Tagsin.png"
+			}
+		},
+		{
+			"name": "Halls of Mist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Halls of Mist.png"
+			}
+		},
+		{
+			"name": "Hammerheim",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hammerheim.png"
+			}
+		},
+		{
+			"name": "Haunted Fengraf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Haunted Fengraf.png"
+			}
+		},
+		{
+			"name": "Havengul Laboratory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Havengul Laboratory_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Havengul Laboratory_back.png"
+				}
+			}
+		},
+		{
+			"name": "The Heron Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Heron Moon.png"
+			}
+		},
+		{
+			"name": "Hidden Grotto",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hidden Grotto.png"
+			}
+		},
+		{
+			"name": "Hissing Quagmire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hissing Quagmire.png"
+			}
+		},
+		{
+			"name": "Hive of the Eye Tyrant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hive of the Eye Tyrant.png"
+			}
+		},
+		{
+			"name": "Homeward Path",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Homeward Path.png"
+			}
+		},
+		{
+			"name": "Horizon Canopy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Horizon Canopy.png"
+			}
+		},
+		{
+			"name": "Horizon of Progress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Horizon of Progress.png"
+			}
+		},
+		{
+			"name": "Hostile Desert",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Hostile Desert.png"
+			}
+		},
+		{
+			"name": "Howltooth Hollow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Howltooth Hollow.png"
+			}
+		},
+		{
+			"name": "Humid Drylands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Humid Drylands.png"
+			}
+		},
+		{
+			"name": "Ice Floe",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ice Floe.png"
+			}
+		},
+		{
+			"name": "Iced Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Island ",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Iced Island.png"
+			}
+		},
+		{
+			"name": "Inkmoth Nexus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Inkmoth Nexus.png"
+			}
+		},
+		{
+			"name": "Island of Wak-Wak",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Island of Wak-Wak.png"
+			}
+		},
+		{
+			"name": "Jasconian Isle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land Creature — Island Fish ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Jasconian Isle.png"
+			}
+		},
+		{
+			"name": "Junktown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Junktown.png"
+			}
+		},
+		{
+			"name": "Karakas",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Karakas.png"
+			}
+		},
+		{
+			"name": "Keldon Megaliths",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Keldon Megaliths.png"
+			}
+		},
+		{
+			"name": "Kher Keep",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Kher Keep.png"
+			}
+		},
+		{
+			"name": "Labyrinth of Skophos",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Labyrinth of Skophos.png"
+			}
+		},
+		{
+			"name": "Lair of the Hydra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lair of the Hydra.png"
+			}
+		},
+		{
+			"name": "Lavaclaw Reaches",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lavaclaw Reaches.png"
+			}
+		},
+		{
+			"name": "Leechridden Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Leechridden Swamp.png"
+			}
+		},
+		{
+			"name": "Llanowar Reborn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Llanowar Reborn.png"
+			}
+		},
+		{
+			"name": "Loch Larent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Loch Larent.png"
+			}
+		},
+		{
+			"name": "Lotus Field",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lotus Field.png"
+			}
+		},
+		{
+			"name": "Lumbering Falls",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lumbering Falls.png"
+			}
+		},
+		{
+			"name": "Madblind Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Madblind Mountain.png"
+			}
+		},
+		{
+			"name": "Madlands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Madlands.png"
+			}
+		},
+		{
+			"name": "Maestros' Totally Safe Hideout",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Maestros' Totally Safe Hideout.png"
+			}
+		},
+		{
+			"name": "Mage-Ring Network",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mage-Ring Network.png"
+			}
+		},
+		{
+			"name": "Magosi, the Waterveil",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Magosi, the Waterveil.png"
+			}
+		},
+		{
+			"name": "Mask Workshop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mask Workshop.png"
+			}
+		},
+		{
+			"name": "Maze of Ith",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Maze of Ith.png"
+			}
+		},
+		{
+			"name": "Mikokoro, Center of the Sea",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mikokoro, Center of the Sea.png"
+			}
+		},
+		{
+			"name": "Mind's Coppice",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Land",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mind's Coppice.png"
+			}
+		},
+		{
+			"name": "Mirrex",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Sphere ",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirrex.png"
+			}
+		},
+		{
+			"name": "Mirrodin's Core",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirrodin's Core.png"
+			}
+		},
+		{
+			"name": "Mirrorpool",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirrorpool.png"
+			}
+		},
+		{
+			"name": "Mishra's Factory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishra's Factory.png"
+			}
+		},
+		{
+			"name": "Mishra's Foundry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishra's Foundry.png"
+			}
+		},
+		{
+			"name": "Mistrea, Sea of Simulation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mistrea, Sea of Simulation.png"
+			}
+		},
+		{
+			"name": "Mistveil Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mistveil Plains.png"
+			}
+		},
+		{
+			"name": "Misty Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Mountain ",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Misty Mountain.png"
+			}
+		},
+		{
+			"name": "Mobilized District",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mobilized District.png"
+			}
+		},
+		{
+			"name": "Moonring Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Moonring Island.png"
+			}
+		},
+		{
+			"name": "Mosswort Bridge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mosswort Bridge.png"
+			}
+		},
+		{
+			"name": "Mountain Stronghold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mountain Stronghold.png"
+			}
+		},
+		{
+			"name": "Muraganda Raceway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Muraganda Raceway.png"
+			}
+		},
+		{
+			"name": "Murmuring Bosk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Murmuring Bosk.png"
+			}
+		},
+		{
+			"name": "Mutavault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mutavault.png"
+			}
+		},
+		{
+			"name": "The Mycosynth Gardens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Sphere ",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Mycosynth Gardens.png"
+			}
+		},
+		{
+			"name": "Mystic Gate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mystic Gate.png"
+			}
+		},
+		{
+			"name": "Nantuko Monastery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Nantuko Monastery.png"
+			}
+		},
+		{
+			"name": "Navigation Centre",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Navigation Centre.png"
+			}
+		},
+		{
+			"name": "Nearby Planet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Nearby Planet.png"
+			}
+		},
+		{
+			"name": "Needle Spires",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Needle Spires.png"
+			}
+		},
+		{
+			"name": "Nephalia Academy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Nephalia Academy.png"
+			}
+		},
+		{
+			"name": "Nesting Grounds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Nesting Grounds.png"
+			}
+		},
+		{
+			"name": "New Benalia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/New Benalia.png"
+			}
+		},
+		{
+			"name": "Night Market",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Night Market.png"
+			}
+		},
+		{
+			"name": "Nimbus Maze",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Nimbus Maze.png"
+			}
+		},
+		{
+			"name": "Oasis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Oasis.png"
+			}
+		},
+		{
+			"name": "Omenpath to Naya",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Omenpath ",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Omenpath to Naya.png"
+			}
+		},
+		{
+			"name": "Ominous Cemetery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ominous Cemetery.png"
+			}
+		},
+		{
+			"name": "Ominous Temple",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ominous Temple.png"
+			}
+		},
+		{
+			"name": "Paliano, the High City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Paliano, the High City.png"
+			}
+		},
+		{
+			"name": "Pendelhaven",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pendelhaven.png"
+			}
+		},
+		{
+			"name": "Phyrexian Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Phyrexian Tower.png"
+			}
+		},
+		{
+			"name": "Pillar of the Paruns",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pillar of the Paruns.png"
+			}
+		},
+		{
+			"name": "Pit of Offerings",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Cave ",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pit of Offerings.png"
+			}
+		},
+		{
+			"name": "Planar Nexus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Planar Nexus.png"
+			}
+		},
+		{
+			"name": "Plaza of Heroes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Plaza of Heroes.png"
+			}
+		},
+		{
+			"name": "Plunder Storehouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Plunder Storehouse.png"
+			}
+		},
+		{
+			"name": "Point of Genesis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Point of Genesis.png"
+			}
+		},
+		{
+			"name": "The Point of No Return",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Point of No Return.png"
+			}
+		},
+		{
+			"name": "Polar Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Plains ",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Polar Plains.png"
+			}
+		},
+		{
+			"name": "Prince's Pavilions",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Prince's Pavilions.png"
+			}
+		},
+		{
+			"name": "Procedural Prairie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Procedural Prairie.png"
+			}
+		},
+		{
+			"name": "Processing Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Ulamog's Power-Plant ",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Processing Plant.png"
+			}
+		},
+		{
+			"name": "Public Thoroughfare",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Public Thoroughfare.png"
+			}
+		},
+		{
+			"name": "Radiant Sanctum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Radiant Sanctum.png"
+			}
+		},
+		{
+			"name": "Raging Ravine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Raging Ravine.png"
+			}
+		},
+		{
+			"name": "Rainbow Vale",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rainbow Vale.png"
+			}
+		},
+		{
+			"name": "Reflecting Pool",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Reflecting Pool.png"
+			}
+		},
+		{
+			"name": "Reliquary Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Reliquary Tower.png"
+			}
+		},
+		{
+			"name": "Restless Anchorage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Anchorage.png"
+			}
+		},
+		{
+			"name": "Restless Bivouac",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Bivouac.png"
+			}
+		},
+		{
+			"name": "Restless Cottage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Cottage.png"
+			}
+		},
+		{
+			"name": "Restless Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Fortress.png"
+			}
+		},
+		{
+			"name": "Restless Prairie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Prairie.png"
+			}
+		},
+		{
+			"name": "Restless Reef",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Reef.png"
+			}
+		},
+		{
+			"name": "Restless Ridgeline",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Ridgeline.png"
+			}
+		},
+		{
+			"name": "Restless Spire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Spire.png"
+			}
+		},
+		{
+			"name": "Restless Vents",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Vents.png"
+			}
+		},
+		{
+			"name": "Restless Vinestalk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Restless Vinestalk.png"
+			}
+		},
+		{
+			"name": "Rhystic Cavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rhystic Cavern.png"
+			}
+		},
+		{
+			"name": "Riptide Laboratory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Riptide Laboratory.png"
+			}
+		},
+		{
+			"name": "River of Tears",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/River of Tears.png"
+			}
+		},
+		{
+			"name": "Roadside Reliquary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Roadside Reliquary.png"
+			}
+		},
+		{
+			"name": "Rugged Prairie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rugged Prairie.png"
+			}
+		},
+		{
+			"name": "Ruins of Oran-Rief",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ruins of Oran-Rief.png"
+			}
+		},
+		{
+			"name": "Rupture Spire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Rupture Spire.png"
+			}
+		},
+		{
+			"name": "Safe Haven",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Safe Haven.png"
+			}
+		},
+		{
+			"name": "Sanctum of the Renowned",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sanctum of the Renowned.png"
+			}
+		},
+		{
+			"name": "Sapseep Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sapseep Forest.png"
+			}
+		},
+		{
+			"name": "Scene of the Crime",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land — Clue ",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Scene of the Crime.png"
+			}
+		},
+		{
+			"name": "Sea Gate Wreckage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sea Gate Wreckage.png"
+			}
+		},
+		{
+			"name": "Seafarer's Quay",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Seafarer's Quay.png"
+			}
+		},
+		{
+			"name": "Shambling Vent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shambling Vent.png"
+			}
+		},
+		{
+			"name": "Shelldock Isle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shelldock Isle.png"
+			}
+		},
+		{
+			"name": "Sheltered Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sheltered Valley.png"
+			}
+		},
+		{
+			"name": "Slumbering Waterways",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Slumbering Waterways.png"
+			}
+		},
+		{
+			"name": "Slushed Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Swamp ",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Slushed Swamp.png"
+			}
+		},
+		{
+			"name": "Sorrow's Avenue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sorrow's Avenue.png"
+			}
+		},
+		{
+			"name": "Soulmirror Mirage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Soulmirror Mirage.png"
+			}
+		},
+		{
+			"name": "The Space Between Seconds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Space Between Seconds.png"
+			}
+		},
+		{
+			"name": "Spawning Pool",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spawning Pool.png"
+			}
+		},
+		{
+			"name": "Spinerock Knoll",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spinerock Knoll.png"
+			}
+		},
+		{
+			"name": "Spire of Industry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spire of Industry.png"
+			}
+		},
+		{
+			"name": "Springjack Pasture",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Springjack Pasture.png"
+			}
+		},
+		{
+			"name": "Stage of the Multiverse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Stage of the Multiverse.png"
+			}
+		},
+		{
+			"name": "Stalking Stones",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Stalking Stones.png"
+			}
+		},
+		{
+			"name": "Starlit Sanctum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Starlit Sanctum.png"
+			}
+		},
+		{
+			"name": "Stellar Scape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Stellar Scape.png"
+			}
+		},
+		{
+			"name": "Stirring Wildwood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Stirring Wildwood.png"
+			}
+		},
+		{
+			"name": "Sunken Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Cave ",
+			"collector_number": "466",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sunken Citadel.png"
+			}
+		},
+		{
+			"name": "Sunken Ruins",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sunken Ruins.png"
+			}
+		},
+		{
+			"name": "Sunny Port",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "468",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sunny Port.png"
+			}
+		},
+		{
+			"name": "Svogthos, the Restless Tomb",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Svogthos, the Restless Tomb.png"
+			}
+		},
+		{
+			"name": "Swarming Flora",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Army ",
+			"collector_number": "470",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Swarming Flora.png"
+			}
+		},
+		{
+			"name": "Taiga Stadium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "471",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Taiga Stadium.png"
+			}
+		},
+		{
+			"name": "Teferi's Isle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "472",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Teferi's Isle.png"
+			}
+		},
+		{
+			"name": "Temple of the False God",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "473",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Temple of the False God.png"
+			}
+		},
+		{
+			"name": "Temur Elevator",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Temur Elevator.png"
+			}
+		},
+		{
+			"name": "Terrain Generator",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "475",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Terrain Generator.png"
+			}
+		},
+		{
+			"name": "Terramorph",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "476",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Terramorph.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "477",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Thawing Glaciers",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "478",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thawing Glaciers.png"
+			}
+		},
+		{
+			"name": "Thespian's Stage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "479",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thespian's Stage.png"
+			}
+		},
+		{
+			"name": "Thran Portal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Gate ",
+			"collector_number": "480",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thran Portal.png"
+			}
+		},
+		{
+			"name": "Three Tree City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "481",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Three Tree City.png"
+			}
+		},
+		{
+			"name": "Thriving Bluff",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "482",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thriving Bluff.png"
+			}
+		},
+		{
+			"name": "Thriving Grove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "483",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thriving Grove.png"
+			}
+		},
+		{
+			"name": "Thriving Heath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "484",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thriving Heath.png"
+			}
+		},
+		{
+			"name": "Thriving Isle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "485",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thriving Isle.png"
+			}
+		},
+		{
+			"name": "Thriving Moor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "486",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thriving Moor.png"
+			}
+		},
+		{
+			"name": "Throne of the High City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "487",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Throne of the High City.png"
+			}
+		},
+		{
+			"name": "Tocasia's Dig Site",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "488",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tocasia's Dig Site.png"
+			}
+		},
+		{
+			"name": "Tolaria",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "489",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tolaria.png"
+			}
+		},
+		{
+			"name": "Tolaria West",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "490",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tolaria West.png"
+			}
+		},
+		{
+			"name": "Treetop Village",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "491",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Treetop Village.png"
+			}
+		},
+		{
+			"name": "Twilight Mire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "492",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Twilight Mire.png"
+			}
+		},
+		{
+			"name": "Under-Construction Skyscraper",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "493",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Under-Construction Skyscraper.png"
+			}
+		},
+		{
+			"name": "Underdark Rift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "494",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Underdark Rift.png"
+			}
+		},
+		{
+			"name": "Undersea Cavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "495",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Undersea Cavern.png"
+			}
+		},
+		{
+			"name": "Unholy Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "496",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Unholy Citadel.png"
+			}
+		},
+		{
+			"name": "Unrecognisable Remains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred World Land",
+			"collector_number": "497",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Unrecognisable Remains.png"
+			}
+		},
+		{
+			"name": "Unstable Terrain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "498",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Unstable Terrain.png"
+			}
+		},
+		{
+			"name": "Urborg",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "499",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urborg.png"
+			}
+		},
+		{
+			"name": "Urborg, Tomb of Yawgmoth",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "500",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urborg, Tomb of Yawgmoth.png"
+			}
+		},
+		{
+			"name": "Urza's Cave",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Urza’s Cave ",
+			"collector_number": "501",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Cave.png"
+			}
+		},
+		{
+			"name": "Urza's Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Urza’s Forest ",
+			"collector_number": "502",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Forest.png"
+			}
+		},
+		{
+			"name": "Urza's Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Urza’s Island ",
+			"collector_number": "503",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Island.png"
+			}
+		},
+		{
+			"name": "Urza's Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Urza’s Mountain ",
+			"collector_number": "504",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Mountain.png"
+			}
+		},
+		{
+			"name": "Urza's Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Urza’s Plains ",
+			"collector_number": "505",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Plains.png"
+			}
+		},
+		{
+			"name": "Urza's Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Urza’s Swamp ",
+			"collector_number": "506",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Swamp.png"
+			}
+		},
+		{
+			"name": "Urza's Workshop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Urza’s ",
+			"collector_number": "507",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Workshop.png"
+			}
+		},
+		{
+			"name": "Value Town",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Town ",
+			"collector_number": "508",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Value Town.png"
+			}
+		},
+		{
+			"name": "Vesuva",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "509",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vesuva.png"
+			}
+		},
+		{
+			"name": "Village Outcrop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Village Outcrop.png"
+			}
+		},
+		{
+			"name": "Volatile Fault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Cave ",
+			"collector_number": "511",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Volatile Fault.png"
+			}
+		},
+		{
+			"name": "Wandering Fumarole",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "512",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wandering Fumarole.png"
+			}
+		},
+		{
+			"name": "Waste Land",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "513",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Waste Land.png"
+			}
+		},
+		{
+			"name": "Wastescape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "514",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wastescape.png"
+			}
+		},
+		{
+			"name": "Whited Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "515",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Whited Wastes.png"
+			}
+		},
+		{
+			"name": "Windbrisk Heights",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "516",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Windbrisk Heights.png"
+			}
+		},
+		{
+			"name": "Wooded Bastion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "517",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wooded Bastion.png"
+			}
+		},
+		{
+			"name": "Yavimaya, Cradle of Growth",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "518",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Yavimaya, Cradle of Growth.png"
+			}
+		},
+		{
+			"name": "Zhalfirin Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "519",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Zhalfirin Void.png"
+			}
+		},
+		{
+			"name": "Zoetic Cavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "520",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Zoetic Cavern.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Regimentation
+		2 Alteration Survivor
+		2 Beacon of Solace
+		2 Alternate
+		2 Brink Fencer
+		2 Omniscience
+		2 Essencegorge
+		2 Psyche, Forever Twisted
+		2 Sepulchre of the Scattered
+		2 Energy Harness
+		2 Scattered Epitaph
+		2 Elsfängge, Soul Crater
+		2 Outspilling Growth
+		2 Sylvanis, One With Nature
+		2 Controlled Chaos
+		2 Premature Celebration
+		2 Jeyrah, Nature Coalescent
+		2 Inkshaper Echram
+		2 Z'tryz, AWOL Surveyor
+		2 Sanelle, Surface Asympototic
+		2 The Grand Magistrate
+		2 Ravage
+		2 Beacon of Coordination
+		2 Against the Grain
+		2 Panglacial Wurm
+		2 She Without Epithet
+		2 The Pride of Skephetten
+		2 Steamroll
+		2 Single Out
+		2 Beacon of Deceit
+		2 Beacon of Knowledge
+		2 Beacon of Hope
+		2 Llathiss, Nephilim Outcast
+		2 Koiru, Oaken Dunepiercer
+		2 Skarstoftel, the Wildbrander
+		2 Vinemother Erralova
+		2 The Murder Bros, Technicians For Hire
+		2 Cloudspewer Skywhale
+		2 Urntag, Over The Brink
+		2 Spelære & Puppet, Hand in Hand
+		2 Mosswicker Mage
+		2 Miss 'Otymie, Lilypad Lurker
+		1 Helix Pinnacle
+		1 Kodeshim Perception
+		1 Pareidolia
+		1 Kodeshim Reclamation
+		1 Kodeshim Elimination
+		1 Kodeshim Creation
+		1 Core of Sheol
+		1 Lost Lotus
+		1 Kodeshim Equilibrium
+		1 Amnesty Of The Accursed
+		1 Hideous Conglomeration
+		1 Hard-light Flare
+		1 A Gracious Offer
+		1 Experiment-347, In Testing
+		1 Courvain the Sightscourge
+		1 The Broken Sovereign
+		1 Apiyra, Infinity Tamer
+		1 Kodeshim Outcry
+		1 XII
+		[UncommonSlot(3)]
+	9 Arms Suppliers
+		9 Ichorcoated Munitions
+		9 Periphery Skirter
+		9 Beyond the Pale
+		9 Vjöryn, Jarl of the Brink
+		9 Brink Pearlcoat
+		9 Observe
+		9 Cloud Fish Chauffeur
+		9 Familiar Screech
+		9 Sheol's Prosperity
+		9 Besmirched Carcass
+		9 Polycheride
+		9 Vulpic Soul Surrogate
+		9 Spatial Convergence
+		9 Adjust
+		9 Divaricate
+		9 Wightling Ambush
+		9 Anteplanck Behemoth
+		9 Naught Preachers
+		9 Pitch Aborat
+		9 Cauterizing Blaspheme
+		9 Twinned Spirit
+		9 Sense the Wild
+		9 Sample Gathering
+		9 Landscape Shift
+		9 Contained Oddity
+		9 Mirage of Civilisation
+		9 Pathfinder's Compass
+		9 Wildformed Relic
+		9 Regelskar, Brink Headquarters
+		9 Lyðarun, Pathfinder's Academy
+		9 Fel, Consequence's Epicentre
+		9 Skephetten, Port of Innovation
+		9 Valhtill, Scattered Borough
+		9 Grasp At Reality
+		9 Siteside Vendor
+		9 Hired Deadeye
+		9 Full Metal Aborat
+		9 Scattered Soul
+		9 Towering Malformation
+		9 Crystalline Mosshound
+		9 Pathfinder Class
+		9 Maternal Mech
+		9 Veteran's Armaments
+		9 Exoplanar Tyrant
+		9 Cloud Fish Pilgrimage
+		9 Coy Tagalong
+		9 One With The Trees
+		9 Wasp, Data Forger
+		9 Blighted Stitcher
+		9 A Path Well Trodden
+		9 Knee-deep Developer
+		9 Valhtillian Mimic
+		9 Lyðarunian Cryomancer
+		9 Metaplanar Tyrant
+		9 Betentacled Monstrocity
+		9 Milestone Setter
+		9 Jumpback Skywhale
+		9 Boreal Abomination
+		9 Winglock
+		9 Scrounge Through Scrap
+		9 Chucklevoodoo
+		9 Chaos Warp
+		9 Larynx Lupin
+		9 Calamity
+		9 Tempest Wave
+		9 Life's Finale
+		9 Bombardment
+		9 Living Plane
+		9 Pistonpouncer
+		9 Defense Coordinator
+		9 Unnoticed Nabbing
+		9 Flora Animating
+		9 Galvanized Gauntlets
+		9 Fleeting Facsimile
+		9 Crashing Squallborn
+		9 The Pathfinder's Paradigm
+		9 Master Warcraft
+		9 Scrap Sorter
+		9 Descend the Ranks
+		9 Corvid Scavenger
+		9 Wrong Person, Right Place
+		9 The Slithery Swindler
+		9 Stiffen
+		9 Mosswire Weird
+		9 Tumultuous Ransacking
+		9 Scooper Drone
+		9 Fel Tome
+		9 Kinghotier
+		9 Carrion Queen
+		9 Timepierced Bayoneteer
+		9 Sapstring Sharpshot
+		9 Invertchiroptriarch
+		9 Gilder Bairn
+		9 Blooming Cloud Fish
+		9 Coincidental Tagalong
+		9 Croaking Tagalong
+		9 Confused Tagalong
+		9 Coaxing Tagalongs
+		[CommonSlot(10)]
+	30 Rend the Taboo
+		30 Call the Overwatch
+		30 Encage
+		30 Winged Infantry
+		30 Develop Solution
+		30 Oddblight
+		30 Vilejägare
+		30 Manifold Growth
+		30 Fluffy Wightling
+		30 Brink Dreng
+		30 Gird for Conflict
+		30 Kodesh Devoted
+		30 Sudden Sinkhole
+		30 Entrenched Pathfinder
+		30 Wild Apparate
+		30 Lyðarunian Mentor
+		30 Aqueous Pathfinder
+		30 Triangulate
+		30 Zoom Out
+		30 Lyðarunian Cataloguer
+		30 Bloated Rothopter
+		30 Gangrenemesis
+		30 Miscreant Aborat
+		30 Event Horizon
+		30 Taint
+		30 Wightling Tamer
+		30 Skittering Anathema
+		30 Dealate
+		30 Dryad Arbor
+		30 Looming Sprigpest
+		30 Subdue
+		30 Spinal Unfolding
+		30 Unknowable Expedition
+		30 Assimilate
+		30 Purrwisp
+		30 Shifting Coincidence
+		30 Coalescent Scraptitan
+		30 Bilechoke Floraborat
+		30 Sapped Overgrowth
+		30 Pebble Wightling
+		30 Follow the Lead
+		30 Esoteric Simulacrum
+		30 Body of Water
+		30 Whimsical Floraborat
+		30 Disfiguring Encounter
+		30 Defacing Slash
+		30 Valhtillian Capsizer
+		30 Mushpooch
+		30 Aperture Shambler
+		30 Razortailed Rodent
+		30 Go With The Flow
+		30 One Of Our Own
+		30 Shambling Intruder
+		30 Soul's Fire
+		30 Skephettenite Core
+		30 Brink Arbalester
+		30 Valhtillian Core
+		30 Ray Blast
+		30 Wall of Shields
+		30 Hotfix
+		30 Fishbot Swarm
+		30 Scout
+		30 Facility Defender
+		30 Wrong Way
+		30 Sharpened Skysplitter
+		30 Umbra Mask
+		30 Embark
+		30 Hard-light Seeker
+		30 Pathfinder's Capsule
+		30 Shadow's Grin
+		30 Augment Reality
+		30 Augmented Faebound
+		30 Contaminated Metal
+		30 Ichor Wellspring
+		30 Cervid Spirit Guide
+		30 Sylvan Scrying
+		30 Gallivanting Hitchhiker
+		30 Sprouting Wightling
+		30 Dunevixen
+		30 Abrade
+		30 Extrapedite
+		30 Repel From Reality
+		30 Internal Blooming
+		30 Dust Settlers
+		30 Aborat's Call
+		30 Entering Databreaker
+		30 Circumnavigate
+		30 Drown in Remnants
+		30 Shame to Waste
+		30 Steel Dromedary
+		30 Fel Core
+		30 Regelskarian Core
+		30 Lyðarunian Core
+		[LandSlot(1)]
+	10 In The Pines
+		10 Wrenn and One
+		10 Aberrated Asphalt
+		10 Power Depot
+		10 Rising Chicane
+		10 Absolute Void
+		10 The Academy of Divine Arts
+		10 Adventurers' Guildhouse
+		10 Amonkhet Raceway
+		10 Animal Sanctuary
+		10 Arcadia
+		10 Arcane Lighthouse
+		10 Arch of Orazca
+		10 Arena
+		10 Avishkar Raceway
+		10 Avowed Rift
+		10 Barry's Land
+		10 Blank Canvas
+		10 Blinkmoth Nexus
+		10 Branch of Vitu-Ghazi
+		10 Captivating Crossroads
+		10 Cascade Bluffs
+		10 Cascading Cataracts
+		10 Cathedral of Serra
+		10 Cathedral of War
+		10 Cave of Temptation
+		10 Cave of the Frost Dragon
+		10 Celestial Colonnade
+		10 City of Traitors
+		10 Cloudpost
+		10 Contested War Zone
+		10 Crawling Barrens
+		10 Creeping Tar Pit
+		10 Crumbling Vestige
+		10 Crystal Quarry
+		10 Dakmor Salvage
+		10 Dark Depths
+		10 Daru Encampment
+		10 Den of the Bugbear
+		10 Desert
+		10 Desert Cenote
+		10 Diamond City
+		10 Diamond Valley
+		10 Domesticated Watercourse
+		10 Dread Statuary
+		10 Enchanted Prairie
+		10 Evolving Wilds
+		10 Expanse of the Dreamscape
+		10 Fabled Passage
+		10 Faceless Haven
+		10 Faerie Conclave
+		10 Fetching Garden
+		10 Fetid Heath
+		10 Fire-Lit Thicket
+		10 Flooded Grove
+		10 Forbidding Watchtower
+		10 The Forgotten Place
+		10 Forsaken Crossroads
+		10 Fountainport
+		10 Frosted Forest
+		10 Frostwalk Bastion
+		10 Geier Reach Sanitarium
+		10 Gem Bazaar
+		10 Gemstone Caverns
+		10 Ghitu Encampment
+		10 Glacial Chasm
+		10 Glade of the Pump Spells
+		10 Glimmerpost
+		10 Glimmervoid
+		10 Gloomy Rift
+		10 Graven Cairns
+		10 Great Hall of the Citadel
+		10 Grim Backwoods
+		10 Grove of the Burnwillows
+		10 Hall of Storm Giants
+		10 Hall of Tagsin
+		10 Halls of Mist
+		10 Hammerheim
+		10 Haunted Fengraf
+		10 Havengul Laboratory
+		10 The Heron Moon
+		10 Hidden Grotto
+		10 Hissing Quagmire
+		10 Hive of the Eye Tyrant
+		10 Homeward Path
+		10 Horizon Canopy
+		10 Horizon of Progress
+		10 Hostile Desert
+		10 Howltooth Hollow
+		10 Humid Drylands
+		10 Ice Floe
+		10 Iced Island
+		10 Inkmoth Nexus
+		10 Island of Wak-Wak
+		10 Jasconian Isle
+		10 Junktown
+		10 Karakas
+		10 Keldon Megaliths
+		10 Kher Keep
+		10 Labyrinth of Skophos
+		10 Lair of the Hydra
+		10 Lavaclaw Reaches
+		10 Leechridden Swamp
+		10 Llanowar Reborn
+		10 Loch Larent
+		10 Lotus Field
+		10 Lumbering Falls
+		10 Madblind Mountain
+		10 Madlands
+		10 Maestros' Totally Safe Hideout
+		10 Mage-Ring Network
+		10 Magosi, the Waterveil
+		10 Mask Workshop
+		10 Maze of Ith
+		10 Mikokoro, Center of the Sea
+		10 Mind's Coppice
+		10 Mirrex
+		10 Mirrodin's Core
+		10 Mirrorpool
+		10 Mishra's Factory
+		10 Mishra's Foundry
+		10 Mistrea, Sea of Simulation
+		10 Mistveil Plains
+		10 Misty Mountain
+		10 Mobilized District
+		10 Moonring Island
+		10 Mosswort Bridge
+		10 Mountain Stronghold
+		10 Muraganda Raceway
+		10 Murmuring Bosk
+		10 Mutavault
+		10 The Mycosynth Gardens
+		10 Mystic Gate
+		10 Nantuko Monastery
+		10 Navigation Centre
+		10 Nearby Planet
+		10 Needle Spires
+		10 Nephalia Academy
+		10 Nesting Grounds
+		10 New Benalia
+		10 Night Market
+		10 Nimbus Maze
+		10 Oasis
+		10 Omenpath to Naya
+		10 Ominous Cemetery
+		10 Ominous Temple
+		10 Paliano, the High City
+		10 Pendelhaven
+		10 Phyrexian Tower
+		10 Pillar of the Paruns
+		10 Pit of Offerings
+		10 Planar Nexus
+		10 Plaza of Heroes
+		10 Plunder Storehouse
+		10 Point of Genesis
+		10 The Point of No Return
+		10 Polar Plains
+		10 Prince's Pavilions
+		10 Procedural Prairie
+		10 Processing Plant
+		10 Public Thoroughfare
+		10 Radiant Sanctum
+		10 Raging Ravine
+		10 Rainbow Vale
+		10 Reflecting Pool
+		10 Reliquary Tower
+		10 Restless Anchorage
+		10 Restless Bivouac
+		10 Restless Cottage
+		10 Restless Fortress
+		10 Restless Prairie
+		10 Restless Reef
+		10 Restless Ridgeline
+		10 Restless Spire
+		10 Restless Vents
+		10 Restless Vinestalk
+		10 Rhystic Cavern
+		10 Riptide Laboratory
+		10 River of Tears
+		10 Roadside Reliquary
+		10 Rugged Prairie
+		10 Ruins of Oran-Rief
+		10 Rupture Spire
+		10 Safe Haven
+		10 Sanctum of the Renowned
+		10 Sapseep Forest
+		10 Scene of the Crime
+		10 Sea Gate Wreckage
+		10 Seafarer's Quay
+		10 Shambling Vent
+		10 Shelldock Isle
+		10 Sheltered Valley
+		10 Slumbering Waterways
+		10 Slushed Swamp
+		10 Sorrow's Avenue
+		10 Soulmirror Mirage
+		10 The Space Between Seconds
+		10 Spawning Pool
+		10 Spinerock Knoll
+		10 Spire of Industry
+		10 Springjack Pasture
+		10 Stage of the Multiverse
+		10 Stalking Stones
+		10 Starlit Sanctum
+		10 Stellar Scape
+		10 Stirring Wildwood
+		10 Sunken Citadel
+		10 Sunken Ruins
+		10 Sunny Port
+		10 Svogthos, the Restless Tomb
+		10 Swarming Flora
+		10 Taiga Stadium
+		10 Teferi's Isle
+		10 Temple of the False God
+		10 Temur Elevator
+		10 Terrain Generator
+		10 Terramorph
+		10 Terramorphic Expanse
+		10 Thawing Glaciers
+		10 Thespian's Stage
+		10 Thran Portal
+		10 Three Tree City
+		10 Thriving Bluff
+		10 Thriving Grove
+		10 Thriving Heath
+		10 Thriving Isle
+		10 Thriving Moor
+		10 Throne of the High City
+		10 Tocasia's Dig Site
+		10 Tolaria
+		10 Tolaria West
+		10 Treetop Village
+		10 Twilight Mire
+		10 Under-Construction Skyscraper
+		10 Underdark Rift
+		10 Undersea Cavern
+		10 Unholy Citadel
+		10 Unrecognisable Remains
+		10 Unstable Terrain
+		10 Urborg
+		10 Urborg, Tomb of Yawgmoth
+		10 Urza's Cave
+		10 Urza's Forest
+		10 Urza's Island
+		10 Urza's Mountain
+		10 Urza's Plains
+		10 Urza's Swamp
+		10 Urza's Workshop
+		10 Value Town
+		10 Vesuva
+		10 Village Outcrop
+		10 Volatile Fault
+		10 Wandering Fumarole
+		10 Waste Land
+		10 Wastescape
+		10 Whited Wastes
+		10 Windbrisk Heights
+		10 Wooded Bastion
+		10 Yavimaya, Cradle of Growth
+		10 Zhalfirin Void
+		10 Zoetic Cavern
+		
