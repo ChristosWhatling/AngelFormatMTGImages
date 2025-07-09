@@ -216,7 +216,7 @@
 			"type": "Legendary Creature — Elohim Soldier ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vjöryn, Jarl of the Brink.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Vjöryn Jarl of the Brink.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Kindred Sorcery — Nightmare ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sheol's Prosperity.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sheols Prosperity.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Legendary Enchantment Planeswalker — Aura Psyche ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Psyche, Forever Twisted.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Psyche Forever Twisted.png"
 			}
 		},
 		{
@@ -813,7 +813,7 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinder's Compass.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinders Compass.png"
 			}
 		},
 		{
@@ -893,7 +893,7 @@
 			"type": "Kindred Land — Nightmare ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Elsfängge, Soul Crater.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Elsfängge Soul Crater.png"
 			}
 		},
 		{
@@ -903,7 +903,7 @@
 			"type": "Legendary Kindred Land — Soldier ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Regelskar, Brink Headquarters.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Regelskar Brink Headquarters.png"
 			}
 		},
 		{
@@ -913,7 +913,7 @@
 			"type": "Legendary Kindred Land — Scout ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarun, Pathfinder's Academy.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lyðarun Pathfinder's Academy.png"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 			"type": "Legendary Kindred Land — Nightmare ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fel, Consequence's Epicentre.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Fel Consequence's Epicentre.png"
 			}
 		},
 		{
@@ -933,7 +933,7 @@
 			"type": "Legendary Kindred Land — Construct ",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skephetten, Port of Innovation.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skephetten Port of Innovation.png"
 			}
 		},
 		{
@@ -943,7 +943,7 @@
 			"type": "Legendary Land — Forest ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtill, Scattered Borough.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Valhtill Scattered Borough.png"
 			}
 		},
 		{
@@ -973,7 +973,7 @@
 			"type": "Legendary Land Creature — Forest Wolf Nightmare ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sylvanis, One With Nature.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sylvanis One With Nature.png"
 			}
 		},
 		{
@@ -1053,7 +1053,7 @@
 			"type": "Legendary Creature — Elk Cherubim Druid ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Jeyrah, Nature Coalescent.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Jeyrah Nature Coalescent.png"
 			}
 		},
 		{
@@ -1093,7 +1093,7 @@
 			"type": "Legendary Artifact Creature — Insect ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Z'tryz, AWOL Surveyor.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Ztryz AWOL Surveyor.png"
 			}
 		},
 		{
@@ -1263,7 +1263,7 @@
 			"type": "Kindred Artifact — Soldier Equipment ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Veteran's Armaments.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Veterans Armaments.png"
 			}
 		},
 		{
@@ -1283,7 +1283,7 @@
 			"type": "Legendary Creature — Dragon Fish Fractal ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sanelle, Surface Asympototic.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sanelle Surface Asympototic.png"
 			}
 		},
 		{
@@ -1323,7 +1323,7 @@
 			"type": "Instant",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Soul's Fire.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Souls Fire.png"
 			}
 		},
 		{
@@ -1433,7 +1433,7 @@
 			"type": "Legendary Artifact Creature — Ishim Artificer ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wasp, Data Forger.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wasp Data Forger.png"
 			}
 		},
 		{
@@ -1623,7 +1623,7 @@
 			"type": "Artifact",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinder's Capsule.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Pathfinders Capsule.png"
 			}
 		},
 		{
@@ -1643,7 +1643,7 @@
 			"type": "Creature — Shade Nightmare ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shadow's Grin.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Shadows Grin.png"
 			}
 		},
 		{
@@ -1963,7 +1963,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Life's Finale.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Lifes Finale.png"
 			}
 		},
 		{
@@ -2053,7 +2053,7 @@
 			"type": "Kindred Sorcery — Nightmare ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aborat's Call.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Aborats Call.png"
 			}
 		},
 		{
@@ -2173,7 +2173,7 @@
 			"type": "Legendary Artifact Creature — Eye Construct ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Experiment-347, In Testing.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Experiment-347 In Testing.png"
 			}
 		},
 		{
@@ -2203,7 +2203,7 @@
 			"type": "Legendary Creature — Cat Cherubim Rogue ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Apiyra, Infinity Tamer.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Apiyra Infinity Tamer.png"
 			}
 		},
 		{
@@ -2243,7 +2243,7 @@
 			"type": "Legendary Creature — Fox Fish Cherubim Nephilim ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Llathiss, Nephilim Outcast.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Llathiss Nephilim Outcast.png"
 			}
 		},
 		{
@@ -2253,7 +2253,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Pathfinder's Paradigm.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Pathfinders Paradigm.png"
 			}
 		},
 		{
@@ -2273,7 +2273,7 @@
 			"type": "Legendary Artifact Creature — Sand Nightmare ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Koiru, Oaken Dunepiercer.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Koiru Oaken Dunepiercer.png"
 			}
 		},
 		{
@@ -2303,7 +2303,7 @@
 			"type": "Legendary Kindred Creature — Malakim Nightmare ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skarstoftel, the Wildbrander.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Skarstoftel the Wildbrander.png"
 			}
 		},
 		{
@@ -2323,7 +2323,7 @@
 			"type": "Sorcery",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wrong Person, Right Place.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Wrong Person Right Place.png"
 			}
 		},
 		{
@@ -2363,7 +2363,7 @@
 			"type": "Legendary Creature — Bird Cherubim Artificer ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Murder Bros, Technicians For Hire.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/The Murder Bros Technicians For Hire.png"
 			}
 		},
 		{
@@ -2423,7 +2423,7 @@
 			"type": "Legendary Creature — Malakim Nightmare ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urntag, Over The Brink.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urntag Over The Brink.png"
 			}
 		},
 		{
@@ -2453,7 +2453,7 @@
 			"type": "Legendary Enchantment Creature — Malakim Nightmare Saga ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spelære & Puppet, Hand in Hand.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Spelære & Puppet Hand in Hand.png"
 			}
 		},
 		{
@@ -2513,7 +2513,7 @@
 			"type": "Legendary Creature — Siren Nightmare Shaman ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Miss 'Otymie, Lilypad Lurker.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Miss Otymie Lilypad Lurker.png"
 			}
 		},
 		{
@@ -2673,7 +2673,7 @@
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Adventurers' Guildhouse.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Adventurers Guildhouse.png"
 			}
 		},
 		{
@@ -2763,7 +2763,7 @@
 			"type": "Basic Land — Cloud ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Barry's Land.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Barrys Land.png"
 			}
 		},
 		{
@@ -3700,7 +3700,7 @@
 			"type": "Land",
 			"collector_number": "369",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Maestros' Totally Safe Hideout.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Maestros Totally Safe Hideout.png"
 			}
 		},
 		{
@@ -3720,7 +3720,7 @@
 			"type": "Land",
 			"collector_number": "371",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Magosi, the Waterveil.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Magosi the Waterveil.png"
 			}
 		},
 		{
@@ -3750,7 +3750,7 @@
 			"type": "Legendary Land",
 			"collector_number": "374",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mikokoro, Center of the Sea.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mikokoro Center of the Sea.png"
 			}
 		},
 		{
@@ -3760,7 +3760,7 @@
 			"type": "Kindred Land",
 			"collector_number": "375",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mind's Coppice.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Minds Coppice.png"
 			}
 		},
 		{
@@ -3780,7 +3780,7 @@
 			"type": "Land",
 			"collector_number": "377",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirrodin's Core.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mirrodins Core.png"
 			}
 		},
 		{
@@ -3800,7 +3800,7 @@
 			"type": "Land",
 			"collector_number": "379",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishra's Factory.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishras Factory.png"
 			}
 		},
 		{
@@ -3810,7 +3810,7 @@
 			"type": "Land",
 			"collector_number": "380",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishra's Foundry.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mishras Foundry.png"
 			}
 		},
 		{
@@ -3820,7 +3820,7 @@
 			"type": "Legendary Land",
 			"collector_number": "381",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mistrea, Sea of Simulation.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Mistrea Sea of Simulation.png"
 			}
 		},
 		{
@@ -4070,7 +4070,7 @@
 			"type": "Legendary Land",
 			"collector_number": "406",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Paliano, the High City.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Paliano the High City.png"
 			}
 		},
 		{
@@ -4180,7 +4180,7 @@
 			"type": "Land",
 			"collector_number": "417",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Prince's Pavilions.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Princes Pavilions.png"
 			}
 		},
 		{
@@ -4490,7 +4490,7 @@
 			"type": "Land",
 			"collector_number": "448",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Seafarer's Quay.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Seafarers Quay.png"
 			}
 		},
 		{
@@ -4550,7 +4550,7 @@
 			"type": "Land",
 			"collector_number": "454",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sorrow's Avenue.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Sorrows Avenue.png"
 			}
 		},
 		{
@@ -4700,7 +4700,7 @@
 			"type": "Land",
 			"collector_number": "469",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Svogthos, the Restless Tomb.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Svogthos the Restless Tomb.png"
 			}
 		},
 		{
@@ -4730,7 +4730,7 @@
 			"type": "Legendary Land",
 			"collector_number": "472",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Teferi's Isle.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Teferis Isle.png"
 			}
 		},
 		{
@@ -4800,7 +4800,7 @@
 			"type": "Land",
 			"collector_number": "479",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thespian's Stage.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Thespians Stage.png"
 			}
 		},
 		{
@@ -4890,7 +4890,7 @@
 			"type": "Land",
 			"collector_number": "488",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tocasia's Dig Site.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Tocasias Dig Site.png"
 			}
 		},
 		{
@@ -5010,7 +5010,7 @@
 			"type": "Legendary Land",
 			"collector_number": "500",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urborg, Tomb of Yawgmoth.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urborg Tomb of Yawgmoth.png"
 			}
 		},
 		{
@@ -5020,7 +5020,7 @@
 			"type": "Land — Urza’s Cave ",
 			"collector_number": "501",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Cave.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Cave.png"
 			}
 		},
 		{
@@ -5030,7 +5030,7 @@
 			"type": "Legendary Land — Urza’s Forest ",
 			"collector_number": "502",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Forest.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Forest.png"
 			}
 		},
 		{
@@ -5040,7 +5040,7 @@
 			"type": "Legendary Land — Urza’s Island ",
 			"collector_number": "503",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Island.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Island.png"
 			}
 		},
 		{
@@ -5050,7 +5050,7 @@
 			"type": "Legendary Land — Urza’s Mountain ",
 			"collector_number": "504",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Mountain.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Mountain.png"
 			}
 		},
 		{
@@ -5060,7 +5060,7 @@
 			"type": "Legendary Land — Urza’s Plains ",
 			"collector_number": "505",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Plains.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Plains.png"
 			}
 		},
 		{
@@ -5070,7 +5070,7 @@
 			"type": "Legendary Land — Urza’s Swamp ",
 			"collector_number": "506",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Swamp.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Swamp.png"
 			}
 		},
 		{
@@ -5080,7 +5080,7 @@
 			"type": "Land — Urza’s ",
 			"collector_number": "507",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urza's Workshop.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Urzas Workshop.png"
 			}
 		},
 		{
@@ -5190,7 +5190,7 @@
 			"type": "Legendary Land",
 			"collector_number": "518",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Yavimaya, Cradle of Growth.png"
+				"en": "https://raw.githubusercontent.com/ChristosWhatling/AngelFormatMTG/refs/heads/main/Exports/Sheol/Sheol-files/Yavimaya Cradle of Growth.png"
 			}
 		},
 		{
